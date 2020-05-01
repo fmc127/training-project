@@ -1,3 +1,3 @@
 Content inbound
 
-Deploying to herokuß
+Deploying to heroku
