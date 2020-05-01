@@ -1,3 +1,6 @@
 Content inbound
 
-Deploying to heroku
+
+Successfully deployed to Heroku and CRUD for auth
+
+Creating objects and relationships next
